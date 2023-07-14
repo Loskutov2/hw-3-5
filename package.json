@@ -1,0 +1,20 @@
+{
+  "name": "sd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/*.html",
+    "build": "parcel build src/*.html --public-url/sd/"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.9.2",
+    "parcel-bundler": "^1.12.5",
+    "pnotify": "^5.2.0"
+  },
+  "devDependencies": {
+    "@pnotify/animate": "^5.2.0"
+  }
+}

@@ -1,0 +1,44 @@
+#body{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 700;
+}
+
+.keyDiv{
+    border: 4px solid black;
+    width: 50px; 
+    height: 50px;
+    margin: auto;
+    border-radius: 20%;
+    pointer-events: none;
+}
+
+#key{
+    font-size: 24px;
+    margin: 10px;
+}
+
+#newGameButton{
+    pointer-events: all;
+    padding: 10px 20px;
+    margin-top: 30px;
+    font-size: 32px;
+    background: none;
+    border-radius: 10px;
+    border: 4px solid rgb(9, 202, 93);
+    color: rgb(9, 202, 93);
+    transition: all ease-in-out 150ms;
+}
+
+#newGameButton:hover{
+    background-color: rgb(9, 202, 93);
+    color: white;
+}
+
+.PNotifyNotise{
+    background-color: rgba(200, 0, 0, 0.6);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    border-radius: 10px;
+    font-size: 24px;
+}
