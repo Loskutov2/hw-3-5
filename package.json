@@ -2,7 +2,7 @@
   "name": "hw-3-5",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Loskutov2.github.io/hw-3-5",
+  "homepage": "https://Loskutov2.github.io/hw-3-5/",
   "source": "src/index.html",
   "scripts": {
     "start": "parcel",
